@@ -1,0 +1,2 @@
+# Midterm
+Photo Gallery App

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1071050059771",
+    "firebase_url": "https://upload-and-retreive-picture-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "upload-and-retreive-picture",
+    "storage_bucket": "upload-and-retreive-picture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071050059771:android:30e1c47ff43bfe1af7655e",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.firebasde_uploadretreivepictutres"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6H935yhao5cOEFk9CIhxOQ5T1aYNp_ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071050059771:android:92f30a35ed62b388f7655e",
+        "android_client_info": {
+          "package_name": "hcmute.edu.vn.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6H935yhao5cOEFk9CIhxOQ5T1aYNp_ic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
